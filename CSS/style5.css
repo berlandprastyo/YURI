@@ -1,0 +1,25 @@
+.p1 {
+    line-height: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.p2 {
+    text-indent: 40px;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: ;
+}
+.container {
+    width: 80%;
+    height: 100px;
+    background-color: blue;
+}
+.kotak {
+    width: 50%;
+    height: 150px;
+    background-color: aqua;
+}
+.waw {
+    width: 30%;
+    height: 75px;
+    background-color: blueviolet;
+}

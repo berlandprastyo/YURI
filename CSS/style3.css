@@ -1,0 +1,30 @@
+.JUDUL, .ISI {
+    color: blueviolet;
+    font-size: 24px;
+}
+.kotak {
+    width: 100px;
+    height:50px;
+    background-color:teal;
+    margin: 100px 10px;
+    border: 1px solid black;
+    border-radius:15px;
+    text-align: center;
+    box-sizing: border-box;
+    line-height: 50px;
+    float: left;
+}
+.kotak:hover {
+    transform:translate(300px, 200px);
+}
+.kotak-puas {
+     width: 100px;
+    height:50px;
+    background-color:teal;
+    margin: 100px 110px;
+    border: 1px solid black;
+    border-radius:15px;
+    text-align: center;
+    box-sizing: border-box;
+    line-height: 50px;
+}

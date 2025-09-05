@@ -1,0 +1,20 @@
+iframe {
+    margin:50px auto;
+
+}
+.clear {
+    clear: left;
+}
+.bulat {
+    margin: 50px auto;
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+    border: 5px solid black;
+    border-top: none;
+    border-radius: 100%;
+    transition: 1s all 0.1s ease;
+}
+.bulat:hover {
+    transform: rotate(360deg);
+}

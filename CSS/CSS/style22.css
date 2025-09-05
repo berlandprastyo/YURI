@@ -1,0 +1,9 @@
+p cite {
+    color: blue;
+}
+blockquote cite {
+    color: red;
+}
+figure figcaption   {
+    color: yellow;
+}

@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0px;
+    padding: 0px;
+}
+table {
+    margin:50px auto;
+   
+    border-spacing: 0px;
+    border-collapse: collapse;
+    background-color: blueviolet;
+}
+td, th{
+    border: 2px  black;
+    border-style:solid;
+    padding: 20px;
+    text-align:center;
+}
+ tr:nth-child(even) {
+    background-color: pink;
+    
+}
